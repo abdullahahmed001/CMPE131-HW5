@@ -10,3 +10,8 @@ Pytest discovery is when pytest automatically discovers your files and functions
 - The first feature I used was pytest.raise which was to make sure the function correctly rejects invalid input
   
    <img width="1600" height="305" alt="image" src="https://github.com/user-attachments/assets/8618366e-3b38-4ebd-b746-7c704b48e9c8" />
+
+- The second feature I used was pytest.approx and this was to handle floating point arithmetic and it checks whether two numbers are the same within small tolerance
+
+    
+  <img width="1600" height="607" alt="image" src="https://github.com/user-attachments/assets/041b6adb-f0cb-4545-8658-511fde96fee7" />
